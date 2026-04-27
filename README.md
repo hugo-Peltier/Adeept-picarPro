@@ -16,7 +16,7 @@ A Logitech webcam sits above the arena connected to a host PC and handles naviga
 ---
 
 <!-- Add a photo of the full setup here (overhead view + robot) -->
-![Nav Overview](docs/aruco.jpeg)
+![Nav Overview](aruco.jpeg)
 
 ---
 
@@ -36,8 +36,8 @@ Once all waypoints are reached, the robot switches to manipulation mode. The arm
 ---
 
 <p align="center">
-  <img src="docs/color.jpeg" width="48%" alt="Color tracking"/>
-  <img src="docs/color2.jpeg" width="48%" alt="Color tracking 2"/>
+  <img src="color.jpeg" width="48%" alt="Color tracking"/>
+  <img src="color2.jpeg" width="48%" alt="Color tracking 2"/>
 </p>
 
 ---
@@ -136,7 +136,7 @@ Good lighting and no occlusion make a big difference in detection reliability.
 ---
 
 <!-- Add a photo of the markers laid out on the ground -->
-![Markers](docs/images/markers.jpg)
+![Markers](ar.png)
 
 ---
 
