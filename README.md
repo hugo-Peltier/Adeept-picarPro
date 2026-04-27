@@ -16,7 +16,7 @@ A Logitech webcam sits above the arena connected to a host PC and handles naviga
 ---
 
 <!-- Add a photo of the full setup here (overhead view + robot) -->
-![Setup overview](docs/images/setup.jpg)
+![Nav Overview](docs/aruco.jpeg)
 
 ---
 
@@ -35,8 +35,10 @@ Once all waypoints are reached, the robot switches to manipulation mode. The arm
 
 ---
 
-<!-- Add a short demo video or GIF here -->
-![Demo](docs/images/demo.gif)
+<p align="center">
+  <img src="docs/color.jpeg" width="48%" alt="Color tracking"/>
+  <img src="docs/color2.jpeg" width="48%" alt="Color tracking 2"/>
+</p>
 
 ---
 
@@ -70,13 +72,6 @@ adeept-picarpro/
 - Camera module mounted on the robotic arm
 - HC-SR04 ultrasonic sensors
 - Host PC (Windows or Linux) connected to the Pi over Wi-Fi
-
----
-
-<!-- Add a labeled hardware photo here -->
-![Hardware](docs/images/hardware.jpg)
-
----
 
 ## Setup
 
